@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Aura.gen.cpp.obj": [
+			"Aura.init.gen.cpp.obj",
+			"AuraCharacterBase.gen.cpp.obj"
+		]
+	}
+}

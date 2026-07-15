@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\toyas\\OneDrive\\Documents\\GitHub\\GameplayAbilitySystemAura\\Aura\\Source\\Aura\\Aura.Build.cs",
+		"C:\\Users\\toyas\\OneDrive\\Documents\\GitHub\\GameplayAbilitySystemAura\\Aura\\Source\\Aura.Target.cs",
+		"C:\\Users\\toyas\\OneDrive\\Documents\\GitHub\\GameplayAbilitySystemAura\\Aura\\Source\\AuraEditor.Target.cs"
+	],
+	"EngineVersion": "5.8.0"
+}

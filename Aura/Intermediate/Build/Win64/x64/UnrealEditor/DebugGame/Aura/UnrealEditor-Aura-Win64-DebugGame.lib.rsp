@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/experimental:deterministic
+/DEF
+/NAME:"UnrealEditor-Aura-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/toyas/OneDrive/Documents/GitHub/GameplayAbilitySystemAura/Aura/Intermediate/Build/Win64/x64/AuraEditor/DebugGame/UnrealEd/SharedPCH.UnrealEd.Project.NonOpt.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_6.h.obj"
+"C:/Users/toyas/OneDrive/Documents/GitHub/GameplayAbilitySystemAura/Aura/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/Aura/Module.Aura.gen.cpp.obj"
+"C:/Users/toyas/OneDrive/Documents/GitHub/GameplayAbilitySystemAura/Aura/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/Aura/Aura.cpp.obj"
+"C:/Users/toyas/OneDrive/Documents/GitHub/GameplayAbilitySystemAura/Aura/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/Aura/AuraCharacterBase.cpp.obj"
+"C:/Users/toyas/OneDrive/Documents/GitHub/GameplayAbilitySystemAura/Aura/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/Aura/PerModuleInline.gen.cpp.obj"
+/OUT:"C:/Users/toyas/OneDrive/Documents/GitHub/GameplayAbilitySystemAura/Aura/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/Aura/UnrealEditor-Aura-Win64-DebugGame.lib"
