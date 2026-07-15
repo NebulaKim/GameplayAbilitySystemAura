@@ -1,2 +1,4 @@
 .bin
 .pch
+.db
+.ipch
